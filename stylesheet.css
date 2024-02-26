@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'URW DIN';
+    src: url('URWDIN-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
